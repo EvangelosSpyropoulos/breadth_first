@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "depth_first"
+name = "breadth_first"
 version = "0.1.0"
